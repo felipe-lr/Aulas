@@ -1,11 +1,11 @@
 package modulo2;
 
-public class Calculadora {
+public class CalculadoraV2 {
 
 	//metodo para somar dois doubles
 	void soma (double x, double y){
 		double resultado = x+y;//somando
-		System.out.println("resultado da soma" + resultado);
+		imprimirResultado(resultado, "soma");
 	}
 	
 	/*
@@ -15,17 +15,19 @@ public class Calculadora {
 	 */
 	void subtracao (double x, double y){
 		double resultado = x-y;
-		System.out.println("resutado da subtracao" + resultado);//imprime resultado
+		imprimirResultado(resultado, "subtracao");
 	}
 	 
 	void multiplicacao (double x, double y){
 		double resultado = x*y;
-		System.out.println("resultado da multiplicacao" + resultado);
+		imprimirResultado(resultado, "mutiplicacao");
 	}
 	 
 	void divisao (double x, double y){
 		double resultado = x/y;
-		System.out.println("resultado da divisao" + resultado);
-	}
+		imprimirResultado(resultado, "divisao");	}
 	 
+	void imprimirResultado(double resultado, String operacao) {
+		System.out.println("resultado da " + operacao + " é: " + resultado);
+	}
 }
