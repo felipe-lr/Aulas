@@ -6,6 +6,8 @@ public class Exercicio14 {
 		
 		/*
 		 *codigo que da o retorno "a" enquanto o valor de x for menor que 10 
+		 
+		 
 		 */
 		
 		int x=9;
