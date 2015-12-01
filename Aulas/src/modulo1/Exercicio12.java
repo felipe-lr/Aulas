@@ -9,6 +9,11 @@ public class Exercicio12 {
 		 * ao vereficar se é menor que 10 ele soma com +1
 		 */
 		
+		/*
+		 * DVD: a segunda linha do seu comentário está errada. O correto:
+		 * "a cada iteração ele soma +1 a variável X"
+		 */
+		
 		
 		int x=1;
 		

@@ -12,6 +12,8 @@ public class Exercicio9 {
 		 * trabalhando com numeros exatos
 		 */
 		
+		//DVD: ta confusa a anotação, eu não entendi, deixe mais claro
+		
 		int x=0;
 		
 		switch (x){

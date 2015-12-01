@@ -11,6 +11,11 @@ public class Exercicio15 {
 		 */
 		
 		
+		/*
+		 * DVD: segunda linha do seu comentário está errada. Correto:
+		 * 		"a cada iteração subtrai 9 do valor de X"
+		 */
+		
 		int x=9;
 		
 		while (x<10){

@@ -10,6 +10,8 @@ public class Exercicio6 {
 		 */
 		
 		
+		//DVD: remover o "duas vezes". Porque "novamente"?
+		
 		int x=5;
 				
 		if (x<10){

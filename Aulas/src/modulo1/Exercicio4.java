@@ -9,6 +9,8 @@ public class Exercicio4 {
 		 * caso nao obter-se um retorno ele utiliza else para obter-se um retorno
 		 */
 		
+		//DVD: melhorar comentário. descrever melhor o que o código faz.
+		
 		
 		int x=0;{
 		

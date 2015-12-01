@@ -8,6 +8,8 @@ public class Exercicio2 {
 		 * codigo sem retorno
 		 */
 		
+		//DVD: o código é sem "saída" somente se x=0. se mudar o x tem retornor. então descreva melhor.
+		
 		int x=0;
 		
 		if (x==2){

@@ -9,6 +9,8 @@ public class Exercicio8 {
 		 *ele soma o valor de x com +1, nesse caso o retorno foi 0123456789
 		 */
 		
+		//DVD: ajustar segunda linha. "ele soma...." para "a cada iteração ele soma.."
+		
 		int x=0;
 		
 		while(x<10){

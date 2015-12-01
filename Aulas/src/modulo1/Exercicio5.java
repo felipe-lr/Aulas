@@ -8,6 +8,8 @@ public class Exercicio5 {
 		 *codigo que verifica duas vezes se o valor de x e menor que 10 e 7
 		 *nesse caso obteu-se dois retornos "a" e "b"
 		 */
+		
+		//DVD: remover o "duas vezes" do comentário.
 
 		int x=5;
 			

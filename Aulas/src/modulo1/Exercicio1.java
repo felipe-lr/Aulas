@@ -9,6 +9,12 @@ public class Exercicio1 {
 		 * para dar uma única saida nesse caso "a"
 		 */
 		
+		/*
+		 * DVD: vc descreveu corretamente o que o seu código está fazendo.
+		 * 		mas procure descrever o código de maneira mais genérica como por exemplo:
+		 * 			"Codigo verifica o valor de X para emitir a saída. Se X for 2 a saída será 'a'"
+		 */
+		
 		int x=2;
 		
 		if (x==2) {
