@@ -9,7 +9,7 @@ public class Exercicio5 {
 		 *nesse caso obteu-se dois retornos "a" e "b"
 		 */
 		
-		//DVD: remover o "duas vezes" do coment�rio.
+		//DVD: remover o "duas vezes" do comentário. não se obtem o resultado "a" e b"
 
 		int x=5;
 			
